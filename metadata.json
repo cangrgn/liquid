@@ -1,0 +1,6 @@
+{
+  "name": "GenSpark Liquid Glass",
+  "description": "An interactive web application to create stunning liquid glass effects on images using WebGL and Three.js, with customizable parameters for refraction, distortion, and reflections.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
